@@ -1,9 +1,22 @@
 @import './navbar.scss';
 @import './hero.scss';
+@import './partners.scss';
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 body{
     background-color: #21212e;
     font-family: 'Muli', sans-serif;
     margin: 0;
+    overflow-x: hidden;
 } 
+
+.section{
+    margin-top: 100px;
+    color: white;
+    p{
+        color: #66667e;
+    }
+    &.hero{
+        margin-top: 0px;
+    }
+}
