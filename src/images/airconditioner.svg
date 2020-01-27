@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="119.41658mm"
+   height="58.093029mm"
+   viewBox="0 0 119.41658 58.093029"
+   version="1.1"
+   id="svg924"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="airconditioner.svg">
+  <defs
+     id="defs918" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-84.330877"
+     inkscape:cy="-47.360757"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata921">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(20.398765,-78.209438)">
+    <g
+       id="air-conditioner_1_"
+       data-name="air-conditioner (1)"
+       transform="matrix(1.6159212,0,0,1.8141599,-20.398765,78.209438)">
+      <path
+         style="fill:#00ec98"
+         inkscape:connector-curvature="0"
+         id="Path_48"
+         data-name="Path 48"
+         d="M 67.738,0.5 H 6.158 A 6.165,6.165 0 0 0 0,6.658 v 19.706 a 6.165,6.165 0 0 0 6.158,6.158 h 61.58 A 6.165,6.165 0 0 0 73.9,26.364 V 6.658 A 6.165,6.165 0 0 0 67.738,0.5 Z M 62.812,30.059 H 11.084 v -3.695 a 1.232,1.232 0 0 1 1.232,-1.232 H 61.58 a 1.232,1.232 0 0 1 1.232,1.232 z m 8.621,-3.695 a 3.7,3.7 0 0 1 -3.695,3.695 H 65.275 V 26.364 A 3.7,3.7 0 0 0 61.58,22.669 H 12.316 a 3.7,3.7 0 0 0 -3.695,3.695 v 3.695 H 6.158 A 3.7,3.7 0 0 1 2.463,26.364 V 6.658 A 3.7,3.7 0 0 1 6.158,2.963 h 61.58 a 3.7,3.7 0 0 1 3.695,3.695 z m 0,0"
+         transform="translate(0,-0.5)" />
+      <path
+         style="fill:#00ec98"
+         inkscape:connector-curvature="0"
+         id="Path_59"
+         data-name="Path 59"
+         d="m 336,48.5 h 12.316 v 2.463 H 336 Z m 0,0"
+         transform="translate(-284.272,-41.11)" />
+      <path
+         style="fill:#00ec98"
+         inkscape:connector-curvature="0"
+         id="Path_60"
+         data-name="Path 60"
+         d="m 304,48.5 h 2.463 v 2.463 H 304 Z m 0,0"
+         transform="translate(-257.199,-41.11)" />
+    </g>
+  </g>
+</svg>

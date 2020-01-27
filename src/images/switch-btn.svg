@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.764015mm"
+   height="46.8325mm"
+   viewBox="0 0 36.764015 46.8325"
+   version="1.1"
+   id="svg1499"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="switch-btn.svg">
+  <defs
+     id="defs1493" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-14.810411"
+     inkscape:cy="174.21664"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="948"
+     inkscape:window-x="1440"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1496">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(38.792722,-148.09565)">
+    <g
+       id="power"
+       transform="matrix(1.6159212,0,0,1.8141599,-38.790202,148.11557)">
+      <g
+         id="Group_4"
+         data-name="Group 4">
+        <g
+           id="Group_3"
+           data-name="Group 3">
+          <path
+             style="fill:#66667e"
+             inkscape:connector-curvature="0"
+             id="Path_19"
+             data-name="Path 19"
+             d="m 47.242,72.045 c 0,0 -1.37,-0.616 -1.37,0.824 a 3.268,3.268 0 0 0 1.374,2.4 8.764,8.764 0 0 1 -4.561,16.1 8.764,8.764 0 0 1 -4.561,-16.1 3.268,3.268 0 0 0 1.374,-2.4 c 0,-1.44 -1.37,-0.824 -1.37,-0.824 a 11.6,11.6 0 0 0 4.556,22.167 11.6,11.6 0 0 0 4.556,-22.167 z"
+             transform="translate(-31.31,-68.408)" />
+          <path
+             style="fill:#66667e"
+             inkscape:connector-curvature="0"
+             id="Path_20"
+             data-name="Path 20"
+             d="m 233.639,0 a 1.519,1.519 0 0 0 -1.673,1.3 v 11.422 a 1.519,1.519 0 0 0 1.673,1.3 1.343,1.343 0 0 0 1.514,-1.3 V 1.3 A 1.343,1.343 0 0 0 233.639,0 Z"
+             transform="translate(-222.183)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
