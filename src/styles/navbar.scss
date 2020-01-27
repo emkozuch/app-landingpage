@@ -1,0 +1,35 @@
+.navigation-container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    .logo-container {
+      display: flex;
+      width: 50%;
+      justify-content: center;
+      .website-logo {
+        height: 50px;
+      }
+    }
+    .navigation{
+        width: 50%;
+        display: flex;
+        .nav-link {
+          font-size: 20px;
+          color: #66667e;
+          text-decoration: none;
+          width: 100px;
+          height: 35px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          border-radius: 8px;
+          &:hover{
+              color: white;
+          }
+          &.with-border{
+              border: 1px solid white;
+          }
+        }
+    }
+  }
+  

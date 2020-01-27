@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="531" height="551" viewBox="0 0 531 551">
+  <defs>
+    <filter id="Rectangle_2217" x="0" y="0" width="531" height="551" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.541"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="-0.14" y1="0.9" x2="1.452" y2="-0.07" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bd11fa"/>
+      <stop offset="1" stop-color="#46c2ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2371" data-name="Group 2371" transform="translate(-767 -2043)">
+    <g transform="matrix(1, 0, 0, 1, 767, 2043)" filter="url(#Rectangle_2217)">
+      <rect id="Rectangle_2217-2" data-name="Rectangle 2217" width="411" height="431" rx="7" transform="translate(60 60)" fill="#20202c"/>
+    </g>
+    <text id="Customizable" transform="translate(863 2326)" fill="#fff" font-size="23" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="0" y="0">Customizable</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_atque_eaque_eius_esse_et_harum_inventore_ipsam_nam_necessi_is_the_tatibus_nemo_pariatur_provident." data-name="Lorem ipsum dolor sit amet, atque eaque eius esse et harum inventore ipsam  nam necessi is the tatibus nemo pariatur provident." transform="translate(863 2364)" fill="#66667e" font-size="16" font-family="Muli-Light, Muli" font-weight="300"><tspan x="0" y="16">Lorem ipsum dolor sit amet, atque eaque eius </tspan><tspan x="0" y="51" xml:space="preserve">esse et harum inventore ipsam  nam necessi is </tspan><tspan x="0" y="86">the tatibus nemo pariatur provident.</tspan></text>
+    <rect id="Rectangle_2223" data-name="Rectangle 2223" width="412" height="103" transform="translate(826 2167)" fill="#39394d" opacity="0.23"/>
+    <g id="Group_232" data-name="Group 232" transform="translate(863.089 2218)">
+      <g id="pencil-case" transform="translate(0 -30)">
+        <g id="Group_231" data-name="Group 231" transform="translate(0 0)">
+          <g id="Group_230" data-name="Group 230" transform="translate(0)">
+            <path id="Path_388" data-name="Path 388" d="M114.636.887a1.161,1.161,0,0,0-.709-.818,1.08,1.08,0,0,0-1.043.159c-1.123.863-6.771,5.3-7.691,7.956a6.153,6.153,0,0,0,.312,4.766,57.242,57.242,0,0,0-4.06,7.74V1.18A1.153,1.153,0,0,0,100.32,0h-8.99a1.153,1.153,0,0,0-1.124,1.18V24.308h-.2l-1.919-7.841,0-.012L86.338,9.617h0c-.01-.039-.022-.078-.036-.116,0-.012-.009-.023-.014-.034s-.022-.053-.034-.078l-.019-.037c-.013-.024-.026-.048-.04-.071l-.022-.035c-.015-.023-.032-.045-.049-.067l-.013-.019L79.441.908A1.092,1.092,0,0,0,78.3.53a1.158,1.158,0,0,0-.82.913L75.468,12.136c0,.008,0,.016,0,.024-.005.031-.009.062-.012.093,0,.013,0,.026,0,.039,0,.03,0,.059,0,.088,0,.014,0,.027,0,.041,0,.03,0,.06.008.09,0,.012,0,.024,0,.037a1.239,1.239,0,0,0,.024.124L77.228,19.5,78.4,24.36a3.3,3.3,0,0,0-1.81.985,3.608,3.608,0,0,0-.988,2.5,3.539,3.539,0,0,0,2.247,3.337V54.516a5.771,5.771,0,0,0,5.618,5.9h22.474a5.771,5.771,0,0,0,5.618-5.9V31.187a3.345,3.345,0,0,0,1.26-.836,3.608,3.608,0,0,0,.988-2.5,3.5,3.5,0,0,0-2.737-3.476,60.871,60.871,0,0,0,1.44-8.674,5.742,5.742,0,0,0,3.245-3.479C116.675,9.561,114.984,2.313,114.636.887ZM107,14.839a5.54,5.54,0,0,0,1.552.906,5.387,5.387,0,0,0,1.666.351,61.483,61.483,0,0,1-1.451,8.212h-6.424A69.66,69.66,0,0,1,107,14.839ZM92.454,2.36H99.2V5.074H96.949a1.181,1.181,0,0,0,0,2.36H99.2v2.36H96.949a1.181,1.181,0,0,0,0,2.36H99.2v2.36H96.949a1.181,1.181,0,0,0,0,2.36H99.2v2.36H96.949a1.181,1.181,0,0,0,0,2.36H99.2v2.714H92.454ZM79.235,4.3l4.61,5.7A5.181,5.181,0,0,1,81.1,11.892a4.96,4.96,0,0,1-3.262-.19Zm-1.014,9.977a7.045,7.045,0,0,0,1.515.166,7.187,7.187,0,0,0,1.948-.271,7.344,7.344,0,0,0,3.049-1.728l1.178,4.617,1.774,7.248H80.7l-1.3-5.393,0-.016ZM109.31,54.516a3.463,3.463,0,0,1-3.371,3.54H83.465a3.463,3.463,0,0,1-3.371-3.54V31.388H109.31Zm2.247-26.668a1.2,1.2,0,0,1-.329.834,1.09,1.09,0,0,1-.794.346H78.97a1.154,1.154,0,0,1-1.124-1.18,1.2,1.2,0,0,1,.329-.834,1.09,1.09,0,0,1,.794-.346h31.464A1.154,1.154,0,0,1,111.557,27.848Zm2.084-16.437a3.417,3.417,0,0,1-2.446,2.247,3.194,3.194,0,0,1-1.875-.131,3.374,3.374,0,0,1-1.559-1.225h0a3.683,3.683,0,0,1-.456-3.312c.421-1.214,3.162-3.8,5.548-5.774C113.509,6.348,114.061,10.2,113.641,11.412Z" transform="translate(-75.447 0)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

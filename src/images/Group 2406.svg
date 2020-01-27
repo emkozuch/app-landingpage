@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="829" height="386" viewBox="0 0 829 386">
+  <defs>
+    <filter id="Rectangle_2238" x="0" y="0" width="829" height="386" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.541"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2406" data-name="Group 2406" transform="translate(-154 -7101)">
+    <g id="Group_2405" data-name="Group 2405" transform="translate(-773)">
+      <g transform="matrix(1, 0, 0, 1, 927, 7101)" filter="url(#Rectangle_2238)">
+        <rect id="Rectangle_2238-2" data-name="Rectangle 2238" width="709" height="266" rx="7" transform="translate(60 60)" fill="#20202c"/>
+      </g>
+      <rect id="Rectangle_2239" data-name="Rectangle 2239" width="111" height="91" rx="7" transform="translate(1585 7161)" fill="#39394d" opacity="0.23"/>
+      <text id="Sed_ut_perspiciatis_unde_iste_natus_error_sit_" data-name="Sed ut perspiciatis unde iste natus error sit?" transform="translate(1017 7213)" fill="#fff" font-size="20" font-family="Muli-SemiBold, Muli" font-weight="600"><tspan x="0" y="0">Sed ut perspiciatis unde iste natus error sit?</tspan></text>
+      <g id="Group_2401" data-name="Group 2401" transform="translate(16 -4.666)">
+        <path id="Path_1594" data-name="Path 1594" d="M-507.334,815.9h-33v2.538h33Z" transform="translate(2148.333 6394.333)" fill="#00ec98"/>
+      </g>
+    </g>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit._Animi_atque_eaque_eius_esse_et_harum_inventore_ipsam_nam_necessitatibus_nemo_pariatur_dipisci_velit_sed_quia_non_numquam_eius_modi_tempora_provident." data-name="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, atque eaque eius esse et harum inventore ipsam  nam necessitatibus nemo pariatur dipisci velit, sed quia non numquam eius modi tempora provident." transform="translate(244 7278)" fill="#66667e" font-size="16" font-family="Muli-Light, Muli" font-weight="300"><tspan x="0" y="16">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, atque eaque eius </tspan><tspan x="0" y="51" xml:space="preserve">esse et harum inventore ipsam  nam necessitatibus nemo pariatur dipisci velit, </tspan><tspan x="0" y="86">sed quia non numquam eius modi tempora provident.</tspan></text>
+  </g>
+</svg>

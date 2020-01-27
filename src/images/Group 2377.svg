@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="345" height="365" viewBox="0 0 345 365">
+  <defs>
+    <filter id="Rectangle_2227" x="0" y="0" width="345" height="365" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.541"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_21" x="229" y="68" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#2eff74" flood-opacity="0.608"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2377" data-name="Group 2377" transform="translate(-481 -3854)">
+    <g id="Group_2376" data-name="Group 2376" transform="translate(500)">
+      <g transform="matrix(1, 0, 0, 1, -19, 3854)" filter="url(#Rectangle_2227)">
+        <rect id="Rectangle_2227-2" data-name="Rectangle 2227" width="225" height="245" rx="7" transform="translate(60 60)" fill="#20202c"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -19, 3854)" filter="url(#Ellipse_21)">
+        <circle id="Ellipse_21-2" data-name="Ellipse 21" cx="5" cy="5" r="5" transform="translate(244 83)" fill="#00ec98"/>
+      </g>
+      <g id="power" transform="translate(73.993 4095.922)">
+        <g id="Group_4" data-name="Group 4" transform="translate(0)">
+          <g id="Group_3" data-name="Group 3">
+            <path id="Path_19" data-name="Path 19" d="M47.242,72.045s-1.37-.616-1.37.824a3.268,3.268,0,0,0,1.374,2.4,8.764,8.764,0,0,1-4.561,16.1,8.764,8.764,0,0,1-4.561-16.1,3.268,3.268,0,0,0,1.374-2.4c0-1.44-1.37-.824-1.37-.824a11.6,11.6,0,0,0,4.556,22.167,11.6,11.6,0,0,0,4.556-22.167Z" transform="translate(-31.31 -68.408)" fill="#66667e"/>
+            <path id="Path_20" data-name="Path 20" d="M233.639,0a1.519,1.519,0,0,0-1.673,1.3V12.722a1.519,1.519,0,0,0,1.673,1.3,1.343,1.343,0,0,0,1.514-1.3V1.3A1.343,1.343,0,0,0,233.639,0Z" transform="translate(-222.183)" fill="#66667e"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_2228" data-name="Rectangle 2228" width="225" height="75" transform="translate(41 4002)" fill="#39394d" opacity="0.23"/>
+      <text id="Smart_Light" data-name="Smart Light" transform="translate(73.742 4035.098)" fill="#fff" font-size="17" font-family="Muli-Regular, Muli"><tspan x="0" y="0">Smart Light</tspan></text>
+      <text id="On_for_last_5_Hrs" data-name="On for last 5 Hrs" transform="translate(73.742 4058.61)" fill="#66667e" font-size="13" font-family="Muli-Regular, Muli"><tspan x="0" y="0">On for last 5 Hrs</tspan></text>
+    </g>
+    <g id="light-bulb-on" transform="translate(570.323 3927.162)">
+      <path id="Path_47" data-name="Path 47" d="M56.129,6.2l1.441-2.422a1.2,1.2,0,0,1,2.095,1.174L58.223,7.374a1.172,1.172,0,0,1-1.047.587,1.873,1.873,0,0,1-.587-.133A1.175,1.175,0,0,1,56.129,6.2ZM34.946,7.38a1.172,1.172,0,0,0,1.047.587,1.874,1.874,0,0,0,.587-.133,1.189,1.189,0,0,0,.46-1.635L35.6,3.778a1.2,1.2,0,0,0-2.095,1.174ZM46.582,5.158a1.168,1.168,0,0,0,1.174-1.174V1.174a1.174,1.174,0,1,0-2.349,0V3.983A1.1,1.1,0,0,0,46.582,5.158ZM25.4,23.919H22.59a1.174,1.174,0,1,0,0,2.349H25.4a1.174,1.174,0,0,0,0-2.349Zm45.18,0H67.77a1.174,1.174,0,1,0,0,2.349h2.809a1.174,1.174,0,0,0,0-2.349ZM68.418,12.544a1.189,1.189,0,0,0-1.635-.46l-2.422,1.441a1.189,1.189,0,0,0-.46,1.635,1.172,1.172,0,0,0,1.047.587,1.873,1.873,0,0,0,.587-.133l2.422-1.441A1.176,1.176,0,0,0,68.418,12.544Zm-6.4,12.422a15.752,15.752,0,0,1-2.028,7.652,1.142,1.142,0,0,1-.26.46l-.133.194a14.014,14.014,0,0,1-1.7,2.222c-2.288,3.2-3.463,5.951-3.4,7.713v.067c0,.133.067.327.067.521v5.624a4.45,4.45,0,0,1-4.443,4.443H42.859a4.45,4.45,0,0,1-4.443-4.443V43.206c.067-1.7-1.114-4.383-3.269-7.519a12.954,12.954,0,0,1-1.961-2.615c-.067-.133-.133-.194-.194-.327A15.36,15.36,0,0,1,30.9,25.033a15.558,15.558,0,0,1,31.117-.067ZM52.139,44.447H40.831v2.222H52.139V44.447Zm0,5.1v-.46H40.831v.46a2.048,2.048,0,0,0,2.028,1.828h7.259A2.043,2.043,0,0,0,52.139,49.551Zm7.452-24.585a13.143,13.143,0,1,0-26.286,0,13.312,13.312,0,0,0,1.828,6.671h0V31.7A15.843,15.843,0,0,0,36.9,34.059l.133.133q3.233,4.613,3.729,7.846H52.206c.394-2.682,2.222-5.751,3.856-8.04,0-.067.067-.067.133-.133a8.894,8.894,0,0,0,1.5-2.028c0-.067.067-.067.067-.133s.067-.067.067-.133A12.831,12.831,0,0,0,59.591,24.966ZM28.8,13.524,26.38,12.083a1.2,1.2,0,0,0-1.174,2.095l2.422,1.441a.954.954,0,0,0,.587.133,1.179,1.179,0,0,0,1.047-.587A1.2,1.2,0,0,0,28.8,13.524Z" transform="translate(-21.416 0)" fill="#00ec98"/>
+    </g>
+  </g>
+</svg>
