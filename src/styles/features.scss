@@ -1,5 +1,17 @@
 .features {
   flex-direction: column;
+  position: relative;
+  &:after{
+content: "";
+width: 300px;
+height: 300px;
+position: absolute;
+bottom: 0;
+right: 2%;
+transform: translate(0, 100%);
+background: url('../images/features-square.svg') no-repeat;
+background-size: contain;
+  }
   .features-first-row {
     display: flex;
     .left-column {
@@ -57,105 +69,115 @@
     }
   }
   .features-second-row {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    margin-top: 150px;
     .left-column {
       width: 50%;
-      .card {
+      height: 100%;
+      .appliances-main {
         position: relative;
+        width: 70%;
+        height: 100%;
         .front {
           position: absolute;
           display: flex;
           top: 10%;
-          left: -10%;
+          left: -15%;
           z-index: 1;
           align-items: flex-end;
-          .card {
+          width: 150%;
+          .appliances-info {
             background-color: #20202c;
             box-shadow: 0 0 23px rgba(0, 0, 0, 0.54);
             border-radius: 8px;
-            // padding: 5px;
 
-            &.left {
-                padding-left: 20px;
-              width: 400px;
-              height: 300px;
-            background: url('../images/lightbulb-background.svg') no-repeat;
-            background-color: #20202c;
-            background-position: right;
-            margin-right: 30px;
+            &.on {
+              padding-left: 20px;
+              background: url("../images/lightbulb-background.svg") no-repeat;
+              background-color: #20202c;
+              background-position: right;
+              margin-right: 30px;
+              .state-message{
+                font-size: 20px;
+                color: white;
+                margin-bottom: 10px;
+              }
               p {
-                &:first-of-type {
-                  font-size: 30px;
-                  color: white;
-                  margin-bottom: 10px;
+                &:last-of-type{
+                  font-size: 10px;
                 }
-
               }
               .row {
-                  position: relative;
+                position: relative;
                 display: flex;
                 z-index: 1;
                 overflow: hidden;
                 div {
-                  p {
-                    &:nth-of-type(1) {
+                    .on-number {
                       color: white;
-                      font-size: 25px;
+                      font-size: 15px;
                       font-weight: bold;
                     }
-                    &:nth-of-type(2) {
+                    .on-name {
                       color: white;
                       margin-bottom: 0;
                     }
-                    &:nth-of-type(3) {
+                    .on-time {
                       margin-top: 0;
+                      font-size: 10px;
                     }
-                  }
+                  
                   flex-grow: 1;
                 }
               }
             }
-            &.right{
-                width: 300px;
-                height: 350px;
-                .card-title{
-                    display: flex;
-                    justify-content: center;
-                    margin-top: 30px;
-                    background-color: #39394d;
-                    color: white;
-                    height: 15%;
+            &.total {
+              height: 250px;
+              width: 250px;
+              .card-title {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 30px;
+                background-color: #39394d;
+                color: white;
+                height: 15%;
+              }
+              .chart {
+                height: 70%;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                background: url("../images/chart.svg") no-repeat;
+                background-position: center;
+                background-size: contain;
+                p {
+                  &.number {
+                    font-size: 30px;
+                    margin: 0;
+                  }
                 }
-                .chart{
-                    height: 85%;
-                    display: flex;
-                    flex-direction: column;
-                    justify-content: center;
-                    align-items: center;
-                    background: url('../images/chart.svg') no-repeat;
-                    background-position: center;
-                    p{
-                        &.number{
-                            font-size: 30px;
-                            margin: 0;
-                        }
-                    }
-                }
+              }
             }
           }
         }
         .back {
           box-shadow: 0 0 23px rgba(0, 0, 0, 0.54);
-          width: 80%;
-          padding-bottom: 10px;
+          width: 100%;
+          height: 100%;
           border-radius: 8px;
-
           .top {
             display: flex;
             background-image: linear-gradient(-47deg, #bd11fa 0%, #46c2ff 100%);
             justify-content: space-around;
-            height: 300px;
-            padding-top: 50px;
+            height: 30%;
+            margin: 0;
             .welcome-message {
+              margin-top: 20px;
               p {
                 color: white;
                 margin: 0;
@@ -166,6 +188,7 @@
               }
             }
             .hour {
+              margin-top: 20px;
               p {
                 color: white;
                 margin: 0;
@@ -179,27 +202,35 @@
             }
           }
           .bottom {
-            margin: 150px 0px 40px 0px;
-
+            height: 70%;
+            display: flex;
+            flex-direction: column;
+            .empty-div{
+              height: 30%;
+            }
             .text-container {
               display: flex;
               justify-content: space-between;
               padding: 0px 10px;
+              height: 10%;
               p:last-of-type {
                 color: purple;
               }
             }
-            .card-container {
+            .appliance-card-container {
+              height: 60%;
               display: flex;
               justify-content: center;
-              margin-bottom: 10px;
-              .card {
+              align-items: flex-end;
+              // border: 1px solid white;
+              .appliance-card {
                 border-radius: 8px;
+                height: 80%;
+                width: 50%;
                 &:first-of-type {
-                  margin-bottom: 70px;
+                  align-self: flex-start;
                 }
                 &:last-of-type {
-                  margin-top: 70px;
                 }
                 box-shadow: 0 0 23px rgba(0, 0, 0, 0.54);
                 margin: 10px;
@@ -208,31 +239,34 @@
                   position: relative;
                   display: flex;
                   justify-content: space-between;
-                  padding: 20px;
-                  height: 30%;
+                  height: 33%;
                   img {
-                    height: 100%;
                     width: 30%;
+                    margin-left: 20px;
                     &:last-of-type {
                       position: absolute;
-                      height: 40%;
+                      height: 50%;
                       right: 0;
                       top: 0;
+                      width: 30%;
                     }
                   }
                 }
                 .appliance-name {
-                  padding: 5px 20px;
+                  padding: 3px 15px;
                   background-color: #262634;
-                  height: 30%;
+                  height: 33%;
                   p:first-of-type {
                     color: white;
-                    font-size: 20px;
+                    font-size: 1.3rem;
                     margin: 0;
+                  }
+                  p:last-of-type{
+                    margin-top: 0;
                   }
                 }
                 .switch-button {
-                  height: 20%;
+                  height: 33%;
                   padding: 20px;
                   img {
                     height: 30px;
@@ -244,6 +278,13 @@
             }
           }
         }
+      }
+    }
+    .right-column {
+      width: 50%;
+      .features-green{
+        color: green;
+        background-color: rgb(4, 68, 4);
       }
     }
   }
