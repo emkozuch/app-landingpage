@@ -2,13 +2,31 @@
 @import "./hero.scss";
 @import "./partners.scss";
 @import "./features.scss";
+@import "./pricing.scss";
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+$txt-dark: #66667e;
 
 body {
   background-color: #21212e;
   font-family: "Muli", sans-serif;
   margin: 0;
   overflow-x: hidden;
+}
+.txt--dark{
+  color: $txt-dark;
+}
+.with-shadow{
+  box-shadow:  0 0 23px rgba(0, 0, 0, 0.54);
+}
+.border--rounded{
+  border-radius: 1%;
+}
+.section-title-container{
+  text-align: center;
+  margin: 50px 0px;
+   .section-subtitle{
+    margin: 0;
+  }
 }
 button {
   border-radius: 8px;
@@ -27,9 +45,6 @@ button {
   display: flex;
   padding: 0px 100px;
   min-height: 80vh;
-  p {
-    // color: #66667e;
-  }
   &.hero {
     margin-top: 0px;
     padding: 0px;

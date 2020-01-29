@@ -1,0 +1,70 @@
+.pricing {
+  flex-direction: column;
+  align-items: center;
+  .time-period-choice-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid white;
+    width: 15%;
+    height: 5vh;
+    border-radius: 5%;
+  }
+  .plans-card-container {
+    display: flex;
+    width: 80%;
+    height: 70vh;
+    margin-top: 100px;
+    align-items: center;
+    position: relative;
+    .plan-card {
+      flex: 1;
+      height: 75%;
+      & > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+      }
+      .plan-title-container {
+        background-color: #39394d;
+        margin-top: 25px;
+        padding: 10px 0px;
+        .plan-title,
+        .plan-subtitle {
+          margin: 0;
+        }
+        .plan-title {
+          font-size: 2vw;
+        }
+      }
+      .plan-info-container {
+        .plan-price,
+        .plan-price-period {
+          margin: 0;
+        }
+        .plan-price {
+          font-size: 3vw;
+          font-weight: bolder;
+          margin-top: 20px;
+        }
+        .plan-price-period {
+          font-size: 0.7vw;
+        }
+        .plan-description {
+          margin: 40px 0px;
+          list-style: none;
+          padding: 0;
+        }
+        button {
+          width: 50%;
+          height: 50px;
+        }
+      }
+      &.front {
+        height: 90%;
+        z-index: 1;
+      }
+    }
+  }
+}
