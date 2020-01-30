@@ -4,8 +4,10 @@
 @import "./features.scss";
 @import "./pricing.scss";
 @import "./faq.scss";
+@import "./footer.scss";
+
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
-$txt-dark: #66667e;
+
 body {
   background-color: #21212e;
   font-family: "Muli", sans-serif;
@@ -13,7 +15,10 @@ body {
   overflow-x: hidden;
 }
 .txt--dark{
-  color: $txt-dark;
+  color: #66667e;
+}
+.txt--white{
+  color: white;
 }
 .with-shadow{
   box-shadow:  0 0 23px rgba(0, 0, 0, 0.54);
