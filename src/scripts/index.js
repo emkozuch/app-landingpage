@@ -1,1 +1,1 @@
-import {accordion} from './accordion'
+import './accordion'
