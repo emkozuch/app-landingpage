@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 41" width="41" height="41">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1514 -7896L406 -7896L406 211L-1514 211Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #66667e } 
+	</style>
+	<g id="Index-2" clip-path="url(#cp1)">
+		<g id="Group 2442">
+			<g id="Group 2426">
+				<g id="Group 225">
+					<g id="facebook-logo-in-circular-button-outlined-social-symbol">
+						<g id="Group 223">
+							<path id="Path 379" fill-rule="evenodd" class="shp0" d="M20.83 40.67C9.69 40.67 0.67 31.64 0.67 20.5C0.67 9.36 9.69 0.33 20.83 0.33C31.97 0.33 41 9.36 41 20.5C41 31.64 31.97 40.67 20.83 40.67ZM20.83 38.83C30.96 38.83 39.17 30.62 39.17 20.5C39.17 10.37 30.96 2.16 20.83 2.16C10.71 2.16 2.5 10.37 2.5 20.5C2.5 30.62 10.71 38.83 20.83 38.83Z" />
+							<path id="Path 380" class="shp0" d="M21.61 32.14L21.61 20.5L25.45 20.5L26.05 16.64L21.61 16.64L21.61 14.71C21.61 13.7 21.94 12.74 23.38 12.74L26.27 12.74L26.27 8.89L22.17 8.89C18.72 8.89 17.78 11.16 17.78 14.3L17.78 16.64L15.42 16.64L15.42 20.5L17.78 20.5L17.78 32.14L21.61 32.14L21.61 32.14Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
