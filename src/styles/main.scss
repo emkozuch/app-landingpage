@@ -56,7 +56,9 @@ button {
   color: white;
   display: flex;
   min-height: 80vh;
-  
+  &.hero{
+    margin-top: 0;
+  }
 }
 @media(min-width:768px){
   .section{
