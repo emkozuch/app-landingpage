@@ -1,6 +1,15 @@
 .faq {
+  position: relative;
   display: flex;
   flex-direction: column;
+  &:before{
+    content: "";
+    width: 20vh;
+    height: 20vh;
+    background: url('../images/faqtriangle.svg') no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
   .accordions-container {
     display: flex;
     flex-wrap: wrap;
