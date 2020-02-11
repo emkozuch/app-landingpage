@@ -55,10 +55,18 @@ button {
   margin-top: 100px;
   color: white;
   display: flex;
-  // padding: 0px 100px;
   min-height: 80vh;
-  &.hero {
-    margin-top: 0px;
-    padding: 0px;
+  
+}
+@media(min-width:768px){
+  .section{
+    padding: 0px 100px;
+    &.hero {
+      margin-top: 0px;
+      padding: 0px;
+    }
+    &.footer {
+      padding: 0;
+    }
   }
 }
