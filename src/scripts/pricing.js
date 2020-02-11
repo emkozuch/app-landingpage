@@ -9,7 +9,6 @@ let state = {
 }
 const changeState = (button) => {
     state.period = button.value
-
 }
 
 const updateCards = () => {
