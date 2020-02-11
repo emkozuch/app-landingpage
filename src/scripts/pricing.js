@@ -22,9 +22,13 @@ const updateCards = () => {
         if (state.period === "monthly") {
             pricesArr[i][0].innerHTML = `$${state.monthlyPrices[i]}`
             pricesPeriodArr[i][0].innerHTML = "Per Month"
+            monthlyBtn.classList.add('active')
+            yearlyBtn.classList.remove('active')
         } else if (state.period === "yearly") {
             pricesArr[i][0].innerHTML = `$${state.yearlyPrices[i]}`
             pricesPeriodArr[i][0].innerHTML = "Per Year"
+            monthlyBtn.classList.remove('active')
+            yearlyBtn.classList.add('active')
         }
         setTimeout(() => {
             cards[i].classList.remove('animated')
